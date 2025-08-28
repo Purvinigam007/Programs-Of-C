@@ -1,3 +1,4 @@
+//check leap year
 #include <stdio.h>
 int main(){
 int year;
@@ -8,3 +9,4 @@ printf("%d is leap year",year);
 else("%d is not a leap year",year);
 return0;
 }
+
