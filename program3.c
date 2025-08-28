@@ -1,3 +1,4 @@
+//Build a result calculator marks of three subjects and print their,total,average,grade.
 #include <stdio.h>
 int main(){
     float  celsius, fahrenheit;
@@ -13,3 +14,4 @@ int main(){
     printf("temperature in celsius =%2f\n",celsius);
     return 0;
 }
+
