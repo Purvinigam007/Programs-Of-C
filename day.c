@@ -1,3 +1,4 @@
+//check weither which day is
 #include <stdio.h>
 int main (){
 int day;
@@ -15,3 +16,4 @@ printf("Day is Wednesday\n");}
 
 return 0;
 }
+
