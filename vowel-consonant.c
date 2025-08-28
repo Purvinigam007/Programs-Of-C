@@ -1,3 +1,4 @@
+//Print weither which is vowel or consonant
 #include <stdio.h>
 int main (){
 char ch;
@@ -12,3 +13,4 @@ else{printf("%c is consonant\n",ch);}
 else{printf("%c is not an alphabet\n,ch");}
 return 0;
 }
+
