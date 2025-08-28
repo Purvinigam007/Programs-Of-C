@@ -1,3 +1,4 @@
+//Build a result calculator marks of three subjects and print their,total,average,grade.
 #include <stdio.h>
 int main(){
 int subject1, subject2, subject3, total;
@@ -26,6 +27,7 @@ printf("total marks:%d",total);
  
  return 0;
 }
+
 
 
 
