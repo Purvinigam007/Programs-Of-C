@@ -1,3 +1,4 @@
+//check weither which is positive
 #include <stdio.h>
 int main(){
 int number;
@@ -15,3 +16,4 @@ printf("It is zero");
 return 0;
 
 }
+
