@@ -1,3 +1,4 @@
+//program to print profile screen
 #include <stdio.h>
 int main() {
  printf("My Introduction ----\n");
@@ -9,3 +10,4 @@ int main() {
     printf("Thankyou....\n");
     return 0;
 }
+
