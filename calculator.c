@@ -1,3 +1,4 @@
+//Build a simple calculator.
 #include <stdio.h>
 int main(){
 char op;
@@ -28,3 +29,4 @@ case'/':
 
 
 }
+
